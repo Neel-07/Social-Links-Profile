@@ -18,7 +18,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./social-links-profile-main/design/destkop-design.jpg)
 
 ### Links
 - Live Site URL: [Click here](https://neel-07.github.io/Recipe-page/)
