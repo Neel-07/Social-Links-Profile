@@ -18,10 +18,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./social-links-profile-main/design/destkop-design.jpg)
 
 ### Links
-- Live Site URL: [Click here](https://neel-07.github.io/Recipe-page/)
+- Live Site URL: [Click here](https://neel-07.github.io/Social-Links-Profile/)
 
 ## My process
    I commenced by structuring the HTML to create the profile page, incorporating sections for personal details, social links, and images. This involved using semantic HTML to ensure accessibility and clear structure. Subsequently, I focused on styling the page using CSS to achieve a responsive and visually appealing profile page across various screen sizes.
